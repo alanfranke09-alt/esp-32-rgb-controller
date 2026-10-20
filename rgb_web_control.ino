@@ -7,8 +7,8 @@ const int PIN_GREEN = 19;
 const int PIN_BLUE  = 18;
 
 // ── WiFi credentials ───────────────────────────────────────────────────────
-const char* SSID     = "SKYLJ2AY";
-const char* PASSWORD = "T8UCbMcsA8pT";
+const char* SSID     = "YOUR_WIFI_SSID";
+const char* PASSWORD = "YOUR_WIFI_PASSWORD";
 
 WebServer server(80);
 
